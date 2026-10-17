@@ -2,7 +2,7 @@ package ci.sitelock;
 
 import android.app.Activity;
 import android.app.AlertDialog;
-import android.app.VpnService;
+import android.net.VpnService;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.graphics.Color;
